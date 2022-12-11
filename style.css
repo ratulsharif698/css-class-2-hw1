@@ -1,0 +1,64 @@
+.card_1{
+border: 2px solid #ccc;
+width: 300px;
+padding: 15px;
+border-radius: 20px 15px 5px 5px;
+background-image: url(https://images.unsplash.com/photo-1670680307288-dae87434670e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60);
+font-family: Arial, Helvetica, sans-serif;
+display: inline-block;
+color: rgb(13, 232, 32);
+background-size: top right;
+background-color: black;
+
+}
+.card_1 a{
+    text-decoration: none;
+}
+.card_1 a:hover{
+    background-color: aqua;
+}
+.card_2 a{
+    text-decoration: none;
+}
+.card_2 a:hover{
+    font-size: 20px;
+}
+
+.card_2{
+    border: 2px solid #ccc;
+width: 300px;
+padding: 10px;
+border-radius: 20px ;
+background-image: url(https://images.unsplash.com/photo-1664575196412-ed801e8333a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxMXx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60);
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+display: inline-block;
+background-size: top left;
+}
+.card_3{
+    border: 2px solid #ccc;
+width: 300px;
+padding: 10px;
+border-radius: 20px 15px 5px 23px ;
+background-image:url(https://images.unsplash.com/photo-1670705881057-949a9c9730ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=415&q=80);
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+display: inline-block;
+background-size: cover;
+}
+
+.card_4{
+    border: 2px solid #ccc;
+width: 300px;
+padding: 10px;
+border-radius: 20px 15px 5px 23px ;
+background-image:url(https://images.unsplash.com/photo-1661956602153-23384936a1d3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxNnx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60)
+  
+}
+
+.card_5{
+    border: 2px solid #ccc;
+width: 300px;
+padding: 10px;
+border-radius: 20px 15px 5px 23px ;
+background-image:url(https://images.unsplash.com/photo-1670539844239-38b5763936cb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxN3x8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60)
+color:red;
+}
